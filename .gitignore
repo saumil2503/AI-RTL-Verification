@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+*.cache/
+*.runs/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.srcs/
+
+# Vivado project files
+*.xpr
+*.xpr.user
+*.xpr.bak
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# Python generated temporary output
+*.pyc

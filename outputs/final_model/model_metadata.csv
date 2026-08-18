@@ -1,0 +1,9 @@
+parameter,value
+model,Random Forest
+n_estimators,500
+max_features,None
+random_state,42
+training_samples,192
+feature_count,46
+fault_classes,6
+behavioral_windows,32
